@@ -73,7 +73,7 @@
                <Button
                    android:layout_width="320dp"
                    android:layout_height="57dp"
-                   android:text="ចូលរួម"
+                   android:text="ចូលរួម with me"
                    android:layout_gravity="center"
                    android:layout_marginTop="14dp"
                    android:textSize="22dp"
